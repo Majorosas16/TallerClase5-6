@@ -19,7 +19,8 @@ width: 40%;
 border-radius: 1rem;
 height: 200px;
 border: 1px solid #000000;
-margin-top: 1rem;
+box-shadow: 7px 2px 40px black;
+margin-top: 2rem;
 padding: 2rem;
 }
 
